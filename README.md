@@ -11,7 +11,9 @@
 
 > Waybar
 
-# Installation (Arch)
+# Installation
+## Arch
 ```sh
-sudo pacman -S swaync hyprlock hypridle hyprland wofi waybar
+sudo pacman -S hyprlock hypridle hyprland wofi waybar
+yay -S swaync
 ```
