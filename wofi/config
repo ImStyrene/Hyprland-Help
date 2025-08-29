@@ -1,0 +1,14 @@
+# ~/.config/wofi/config
+
+# Mode
+show=drun       # drun = desktop entries (.desktop apps), run = binaries
+
+# Appearance
+width=30%
+height=40%
+location=center
+hide_scroll=true
+
+# Behavior
+prompt=...
+insensitive=true
