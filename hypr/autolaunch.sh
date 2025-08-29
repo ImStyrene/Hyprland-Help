@@ -2,7 +2,7 @@
 
 # SWWW Wallpaper Manager
 swww-daemon &
-swww img ~/Pictures/Wallpapers/vecteezy_winter-wallpaper-for-desktop-with-flat-design-style-winter_11491443.png &
+swww img /path/to/image.png &
 
 # Waybar
 waybar &
